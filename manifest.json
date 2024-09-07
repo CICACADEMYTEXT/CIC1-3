@@ -1,0 +1,10 @@
+{
+  "name": "https://cicacademytext.github.io/CIC1-3/",
+  "icons": [
+    {
+      "src": "/path/to/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "CIC.png"
+    }
+  ]
+}
